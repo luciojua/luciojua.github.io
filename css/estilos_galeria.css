@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+.galeria{
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif"
+}
+
+.galeria h1{
+    text-align: center;
+    margin: 20px 0 15px 0;
+    font-weight: 300;
+}
+
+.linea{
+    border-top: #F29100;
+    
+    
+    
+}

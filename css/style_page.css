@@ -1,0 +1,509 @@
+@charset "utf-8";
+body header , body nav, body main, body footer{
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: auto;
+}
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body header {
+    background-color: #2E2119;
+}
+.menu {
+    color: #F29100;
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 40px;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: normal;
+    font-size: 15pt;
+    padding-top: 20px;
+}
+.menu :hover {
+    color: #FFCE85;
+    text-shadow: 0px 0px #F29100;
+}
+
+body header ul {
+    width: 700px;
+    margin-left: 650px;
+
+}
+
+.barra_de_menu {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    padding-left: 0px;
+}
+
+.logo{
+    display: table-cell;
+    padding: 10px;
+    margin-top: 20px;
+
+}
+.empresa{
+    display: table-cell;
+    width: 500px;
+    margin-top: 20px;
+}
+
+.boton{
+    display: table-cell;
+    padding: 10px;
+    text-align: right;
+    width: 150px;
+    margin-left: 38px;
+}
+.barra_de_menu .boton .h3 {
+}
+.barra_de_menu .empresa .h1 {
+    width: 300px;
+}
+
+
+
+.contenido{
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    padding-left: 0px;
+}
+.caja1{
+    display: table-cell;
+    
+    
+}    
+.galeria{
+    margin-top: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    padding-left: 0px;
+    width: 900px;
+    height: auto;
+}
+.carrusel{
+    display: table-cell;
+}
+.contenido .caja1 {
+    margin-top: 32px;
+    padding-top: 0px;
+}
+
+.caja2{
+    display: table-cell;
+}
+.contenido footer{
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    padding-left: 0px;  
+}
+
+.footer1{
+    display: table-cell;
+}
+.footer2{
+    display: table-cell;
+    width: 100px;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-top: auto;
+    padding-bottom: auto;
+}
+
+.img1 {
+    width: 100%;
+    height: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0.2;
+}
+
+
+
+body main {
+    opacity: 1;
+    height: auto;
+    background-color: #FFEACC;
+}
+body footer {
+    background-color: #2E2119;
+    height: 85px;
+}
+body main section {
+    width: 800px;
+    background-color: #FFFFFF;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+}
+h2   {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    color: #F29100;
+}
+body footer h5 {
+    color: #F29100;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-size: 12pt;
+    font-weight: lighter;
+    height: 25px;
+    text-align: center;
+    width: 700px;
+    padding-left: 200px;
+}
+h4   {
+    color: #F29100;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+}
+p   {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-size: 14pt;
+    color: #2E2119;
+    margin-top: 15px;
+}
+div div img {
+    width: 50%;
+    height: auto;
+}
+
+.val {
+    color: #2E2119;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-size: 14pt;
+}
+
+.val {
+}
+.img1 {
+    opacity: 1;
+}
+.menu {
+}
+
+body header h1 {
+    color: #F29100;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    padding-left: 0px;
+    margin-left: -12px;
+}
+main section h1 {
+    color: #2E2119;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    margin-top: 31px;
+}
+.ingre {
+    color: #4D3121;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 10pt;
+    font-style: italic;
+    margin-left: 10px;
+}
+
+.ingre {
+    color: #2E2119;
+}
+.img_footer {
+    width: 40px;
+    height: auto;
+    float: right;
+    margin-left: 228px;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+
+.titulo_galeria {
+    color: 1px solid black;
+}
+
+
+
+
+
+.itemCarrusel {
+    border: #F29100;
+    height: 200px; 
+}
+
+.tarjetasCarrusel{ 
+    background-color: #F29100; 
+    position: relative;
+    height: 100%;
+}
+.contenido .caja1 {
+    width: 800px;
+    height: auto;
+    margin-right: auto;
+    padding-left: 100px;
+    margin-left: auto;
+    padding-top: 0px;
+}
+
+.flechasCarrusel{ 
+    background-color: #2E2119; 
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+.contenido .caja2 {
+    width: 800px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    padding-top: 70px;
+}
+.contenido.footer .footer1 {
+    width: 900px;
+}
+.img_contenido {
+    background-attachment: fixed;
+    margin-right: auto;
+    margin-left: 61px;
+    width: 90%;
+}
+.img_logo {
+    width: 400%;
+    height: auto;
+    text-align: center;
+    clear: both;
+    margin-left: 25px;
+    padding-left: 0px;
+}
+
+.barra_de_menu .empresa {
+    padding-right: 150px;
+    width: 57px;
+    padding-left: 144px;
+}
+
+
+.barra_de_menu .boton {
+    width: 80px;
+    text-align: left;
+}
+.barra_de_menu {
+    width: auto;
+    height: auto;
+}
+.empresa .h3 .botontitulo {
+    color: #F29100;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    text-decoration: none;
+}
+.contenido .caja2 .img_nosotros {
+    width: 50%;
+    height: auto;
+    margin-left: 40px;
+}
+.frase {
+    color: #2E2119;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: 30px;
+    text-shadow: 2px 2px #F29100;
+    text-transform: lowercase;
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.boton .h3 .a {
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    text-decoration: none;
+    border-top: thick solid #F29100;
+}
+
+.boton .h5 .a {
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    text-decoration: none;
+    border-top: thick solid #F29100;
+}
+
+.contacto_sucursal {
+    color: #F29100;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    text-decoration: none;
+    width: 20px;
+    font-size: 13pt;
+}
+.h44 {
+    width: 300px;
+    margin-left: 100px;
+
+}
+
+
+.galeria{
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif"
+}
+
+.galeria h1{
+    text-align: center;
+    margin: 20px 0 15px 0;
+    font-weight: 300;
+}
+
+.linea{
+    border-top: #F29100;
+}
+
+.contenedor_imagenes{
+    display: flex;
+    width: 50%;
+    margin: auto;
+    justify-content: space-around;
+    border-radius: 3px;
+}
+
+.contenedor_imagenes .imagen{
+    width: 32%;
+    position: relative;
+    height: 50px;
+    margin-bottom: 5px;
+    box-shadow: 0px 0px 3px 0px;
+}
+
+.imagen{
+    width: 200%;
+}
+.galeria .img_galeria {
+    width: 45%;
+    height: auto;
+    margin-left: 30px;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+  body header div {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+    .color div .centrar {
+    text-align: center;
+		color: #F29100;
+}
+    .color div .img_coti {
+    margin-left: auto;
+    margin-right: auto;
+}.h22 {
+    color: #F29100;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 20pt;
+}
+
+.tit_plat {
+    color: #4D3121;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 25pt;
+}
+.reserva {
+    color: #F29100;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 15pt;
+}
+.h33 {
+    width: 220px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #4D3121;
+}
+.pagination .page-item .page-link.a_bon {
+    color: #F29100;
+}
+.pagination .page-item .page-link {
+    color: #4D3121;
+}
+.a_bon {
+}
+.color_bonotes {
+    color: #F29100;
+}
+.historia {
+    color: #F29100;
+    font-size: 15pt;
+    width: 200px;
+    padding-left: auto;
+    padding-right: auto;
+}
+.galeria .h33 {
+    width: 850px;
+    margin-left: 25px;
+    color: #4D3121;
+    font-size: 13pt;
+}
+.col-sm-4 p .img_gi {
+    width: 95%;
+    background-size: 100% 100%;
+    height: 10%;
+}
+.img_gi:hover {
+    background-size: 200%;
+    -webkit-box-shadow: 7px 7px 90px #F29100;
+    box-shadow: 7px 7px 90px #F29100;
+    transition: 1s;
+    width: 100%;
+    height: 15%;
+}
+
+
+.galeria .galeria {
+    margin-left: 27px;
+    color: #F29100;
+    font-size: 20pt;
+}
+.row .col-sm-4 .pie_img {
+    color: #4D3121;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: italic;
+    font-size: 13pt;
+}
+.contenido .caja1 .h1_nosotros {
+    color: #F29100;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 20pt;
+
+}
+.contenido .caja1 .h4_italic {
+    color: #895200;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 13pt;
+    font-style: italic;
+    font-weight: 500;
+}
+.contenido .caja1 .parrafo {
+    color: #4D3121;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 12pt;
+}
+
+
+.h4_italic {
+}
